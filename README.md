@@ -23,6 +23,11 @@
 📊 **Weekly development by trung2891:**
 
 <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trung2891&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
