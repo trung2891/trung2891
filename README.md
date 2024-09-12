@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trung!</h1>
 <h3 align="center">A blockchain engineer from Vietnam</h3>
 
-- 🌱 I’m currently working on **abc** and **xyz** on **Oraichain**.
+- 🌱 🔭 I’m currently a Blockchain Engineer at [Oraichain Labs](https://github.com/oraichain)
 
 - 📖 I have strong foundation on **Solidity Ecosystem**, and I really love about both the core of blockchain and defi vulnerabilities.
 
