@@ -1,16 +1,41 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Trung!</h1>
+<h3 align="center">A blockchain engineer from Vietnam</h3>
 
-<!--
-**trung2891/trung2891** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently working on **abc** and **xyz** on **Oraichain**.
 
-Here are some ideas to get you started:
+- 📖 I have strong foundation on **Solidity Ecosystem**, and I really love about both the core of blockchain and defi vulnerabilities.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Some tools, languages that I am currently using **rust, go, nodejs**
+
+- 🤝 I’m looking for people having the same interests.
+
+- 👨‍💻 All of my projects are available at [here](https://github.com/trung2891?tab=repositories)
+
+- 📫 How to reach me **trungnv280201@gmail.com**
+
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/trung-nguyen-09a5a5205/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="trung2891" height="30" width="40" /></a>
+</p>
+<img align="center" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGx2OTI2N240MnFxdWYxZmY5NHJwaDI4MmQ0MTl6bHY5cmsxNm90OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lQJNunHwZ32RGilGRO/giphy.gif" width="500" height="320" />
+
+📊 **Weekly development by trung2891:**
+
+<!--START_SECTION:waka-->
+
+```txt
+TypeScript   1 hr 14 mins    ████████████░░░░░░░░░░░░░   48.15 %
+Solidity     47 mins         ███████▓░░░░░░░░░░░░░░░░░   30.72 %
+Python       24 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.65 %
+Markdown     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+JavaScript   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
+```
+
+<!--END_SECTION:waka-->
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trung2891&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
+
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trung2891&theme=dark&background=000004)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=trung2891&theme=onedark)]()
