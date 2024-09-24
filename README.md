@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trung!</h1>
 <h3 align="center">A blockchain engineer from Vietnam</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=trung2891&label=Profile%20views&color=0e75b6&style=flat" alt="trung2891" /> </p>
 
 - 🌱 🔭 I’m currently a Blockchain Engineer at [Oraichain Labs](https://github.com/oraichain)
 
@@ -37,5 +38,7 @@ Bash         2 hrs 15 mins   █▓░░░░░░░░░░░░░░░
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=trung2891&show_icons=true&locale=en&layout=compact" alt="perfogic" /></p>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trung2891&theme=dark&background=000004)
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=trung2891&show_icons=true&locale=en" alt="trung2891" /></p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=trung2891&theme=onedark)]()
