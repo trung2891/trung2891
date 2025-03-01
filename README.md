@@ -26,8 +26,8 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   13 hrs 28 mins  █████████████░░░░░░░░░░░░   52.32 %
-Solidity     7 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.12 %
+TypeScript   13 hrs 26 mins  █████████████░░░░░░░░░░░░   52.27 %
+Solidity     7 hrs 45 mins   ███████▓░░░░░░░░░░░░░░░░░   30.16 %
 Rust         1 hr 38 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 JavaScript   1 hr 2 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
 JSON         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
